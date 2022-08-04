@@ -33,3 +33,4 @@ Graduated From Computer Science , Passionate About Software Development Technolo
 <p align="left"> <a href="https://www.github.com/Mohamed-Mamoun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamed-mamoun-5472b01aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Mamoun)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
